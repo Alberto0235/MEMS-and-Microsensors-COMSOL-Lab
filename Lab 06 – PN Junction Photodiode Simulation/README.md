@@ -18,6 +18,10 @@
 -   `CAD photodiode.mph` — Reference simulation file.
 -   `Images/` — 2D plots of hole/electron concentration and electric potential.
 
+### Visual Results
+![Surface Net dopant](Images/Surface_Net_dopant.png)
+![Surface Signed dopant](Images/Surface_Signed_dopant.png)
+
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics (requires Semiconductor Module).
 2.  Run the **Stationary Study**. The solver calculates the solution for the defined reverse bias voltage.
