@@ -20,6 +20,11 @@
 -   `CAD MEMS yaw Gyroscope.mph` — COMSOL simulation file.
 -   `Images/` — Frequency sweep plots and mode shapes.
 
+### Visual Results
+![Global 1D Plot](Images/Global_1D_Plot.png)
+![Mode Shape](Images/Mode_Shape.png)
+![Mode Shape 1](Images/Mode_Shape_1.png)
+
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run the **Parametric Sweep** study.
