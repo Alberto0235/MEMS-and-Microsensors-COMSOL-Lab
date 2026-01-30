@@ -1,7 +1,7 @@
 # Lab 03 – Torsional (Z-Axis) Accelerometer Design
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
-**Date of work:** October 2024  
+**Date of work:** October 2025  
 **Author:** Alberto Marrone
 
 ## 📌 Short Summary
