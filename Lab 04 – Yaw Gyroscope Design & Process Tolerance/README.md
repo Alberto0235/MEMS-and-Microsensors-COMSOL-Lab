@@ -15,7 +15,7 @@
 -   **Outcome:** Redesign of spring widths ($w_f, w_d$) to ensure robustness against process variations.
 
 ## 📂 Included Files
--   `Yaw_Gyroscope.mph` — COMSOL simulation file.
+-   `E11_yaw_gyroscope_start.mph` — COMSOL simulation file.
 -   `Images/` — Frequency sweep plots and mode shapes.
 
 ## How to reproduce
