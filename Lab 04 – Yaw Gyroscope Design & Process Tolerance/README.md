@@ -23,7 +23,7 @@
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run the **Parametric Sweep** study.
-3.  Check the 1D Plot Group to see how $f_{drive}$ and $f_{sense}$ cross or diverge with etching tolerances.
+5.  Check the 1D Plot Group to visualize the frequency drift of $f_{drive}$​ and $f_{sense}$ ​ as a function of the etching parameter.
 
 ## License
 Simulation files: MIT License.
