@@ -15,7 +15,7 @@
 -   **Analysis:** Optimization of the torsional springs ($k = 2G w^3 h / 3l$) to hit the 22 kHz target while maintaining the correct mode order.
 
 ## 📂 Included Files
--   `PitchRoll_Gyro.mph` — COMSOL simulation file.
+-   `CAD MEMS pitchroll Gyroscope.mph` — COMSOL simulation file.
 -   `Images/` — Visualization of Drive (torsional) and Sense (piston) modes.
 
 ## How to reproduce
