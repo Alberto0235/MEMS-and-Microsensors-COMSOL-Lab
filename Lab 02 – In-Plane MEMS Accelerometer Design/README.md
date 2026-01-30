@@ -5,9 +5,11 @@
 **Author:** Alberto Marrone
 
 ## 📌 Short Summary
--   **Design Specs:** -   Target Resonance Frequency: **4 kHz**.
+-   **Design Specs:**
+    -   Target Resonance Frequency: **4 kHz**.
     -   Process Thickness: **20 µm**.
     -   Mass side length: **400 µm**.
+    -   Fold Length: **185 µm**.
 -   **Structure:** Proof mass suspended by four folded springs (4-times folded) with nested holes for parallel plate readout.
 -   **Simulations:**
     -   **Stationary:** Stiffness ($k$) evaluation under static load.
