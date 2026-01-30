@@ -2,7 +2,7 @@
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
 **Date of work:** November 2025  
-**Author:** Alberto Marrone
+**Author:** Alberto Marrone  
 **Reference:** Course Instructor Design
 
 ## 📌 Short Summary
@@ -15,7 +15,7 @@
 -   **Key Result:** Verification of the relationship between doping concentration and depletion width.
 
 ## 📂 Included Files
--   `PN_Photodiode.mph` — Reference simulation file.
+-   `CAD photodiode.mph` — Reference simulation file.
 -   `Images/` — 2D plots of hole/electron concentration and electric potential.
 
 ## How to reproduce
