@@ -16,7 +16,7 @@
 -   `Images/` — Plots of electric field streamlines and potential distribution.
 
 ### Visual Results
-![Electric Potential](Images/Electric Potential.png)
+![Electric Potential](Images/Electric_Potential.png)
 ![Geometry](Images/Geometry.png)
 ![Table Graph](Images/Table Graph.png)
 
