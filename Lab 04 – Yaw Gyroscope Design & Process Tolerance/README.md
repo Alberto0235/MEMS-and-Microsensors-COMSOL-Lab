@@ -2,7 +2,8 @@
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
 **Date of work:** November 2025  
-**Author:** Alberto Marrone
+**Author:** Alberto Marrone  
+**Reference:** Course Instructor Design
 
 ## 📌 Short Summary
 -   **Design Specs:**
