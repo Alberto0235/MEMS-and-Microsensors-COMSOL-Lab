@@ -19,6 +19,9 @@
 -   `CAD MEMS torsional Accelerometer.mph` — COMSOL simulation file.
 -   `Images/` — Torsional mode visualization (tilting motion).
 
+### Visual Results
+![Mode_Shape](Images/Mode_Shape.png)
+
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run **Study 1 (Eigenfrequency)** to compute the vibration modes.
