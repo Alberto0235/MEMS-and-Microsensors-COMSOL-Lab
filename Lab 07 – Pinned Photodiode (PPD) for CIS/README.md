@@ -14,7 +14,7 @@
 -   **Outcome:** Visualization of the complete charge transfer mechanism essential for Correlated Double Sampling (CDS).
 
 ## 📂 Included Files
--   `Pinned_Photodiode.mph` — Reference simulation file.
+-   `CAD Pinned photodiode.mph` — Reference simulation file.
 -   `Images/` — Potential profile cuts showing the charge transfer barrier.
 
 ## How to reproduce
