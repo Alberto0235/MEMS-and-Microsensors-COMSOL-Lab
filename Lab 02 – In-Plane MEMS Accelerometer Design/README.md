@@ -20,6 +20,10 @@
 -   `CAD MEMS in-plane Accelerometer.mph` — COMSOL simulation file.
 -   `Images/` — Mode shapes and displacement under 1g load.
 
+### Visual Results
+![Mode Shape](Images/Mode_Shape.png)
+![Graph Description](Images/Mode_Shape.png)
+
 ## How to reproduce
 1.  Open the `.mph` file in COMSOL Multiphysics.
 2.  Run **Study 1 (Stationary)** to verify the displacement under static acceleration.
