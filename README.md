@@ -31,7 +31,6 @@ The laboratories included are:
 ## 🛠️ Tools and Software Used
 
 -   **COMSOL Multiphysics** – Primary FEA tool (Modules: *MEMS, Structural Mechanics, Electrostatics, Semiconductor*).
--   **MATLAB** – Used for analytical verification, post-processing, and stiffness calculations.
 -   **Solid Mechanics Module** – For eigenfrequency and stationary displacement analysis.
 -   **Electrostatics Module** – For capacitance matrices and voltage actuation.
 -   **Semiconductor Module** – For charge transport and potential barrier simulations.
