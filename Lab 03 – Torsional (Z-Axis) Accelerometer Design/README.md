@@ -14,7 +14,7 @@
 -   **Analysis:** Calculation of rotational stiffness ($k_{\theta}$) and moment of inertia ($I$) to tune the frequency $\omega_0 = \sqrt{k/I}$.
 
 ## 📂 Included Files
--   `Torsional_Accel.mph` — COMSOL simulation file.
+-   `CAD MEMS pitchroll Gyroscope.mph` — COMSOL simulation file.
 -   `Images/` — Torsional mode visualization (tilting motion).
 
 ## How to reproduce
