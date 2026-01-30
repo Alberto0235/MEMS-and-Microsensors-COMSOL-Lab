@@ -18,7 +18,7 @@
 -   `Images/` — Torsional mode visualization (tilting motion).
 
 ## How to reproduce
-1.  Open `Torsional_Accel.mph` in COMSOL.
+1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run **Study 1 (Eigenfrequency)** to compute the vibration modes.
 3.  Check the resulting frequencies in the **Eigenvalues** table: verify that the fundamental torsional mode falls within the **3-5 kHz** target range.
 4.  View the **3D Plot Group** to confirm the mode shape corresponds to a tilting motion around the central axis.
