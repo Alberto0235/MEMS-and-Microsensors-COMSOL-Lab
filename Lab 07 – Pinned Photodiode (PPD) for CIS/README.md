@@ -17,6 +17,11 @@
 -   `CAD Pinned photodiode.mph` — Reference simulation file.
 -   `Images/` — Potential profile cuts showing the charge transfer barrier.
 
+### Visual Results
+![Electron Concentration](Images/Electron_Concentration.png)
+![Hole Concentration](Images/Hole_Concentration.png)
+![Electric Potential](Images/Electric_Potential.png)
+
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics (requires Semiconductor Module).
 2.  Run the **Stationary Study** to simulate the device in the integration phase (TG low).
