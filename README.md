@@ -2,6 +2,7 @@
 
 **Course:** MEMS and Microsensors (Master's Degree in Electronic Engineering)  
 **University:** Politecnico di Milano  
+**Academic Year:** 2025-2026  
 **Scope:** Master's degree course in Electronics Engineering  
 
 ---
