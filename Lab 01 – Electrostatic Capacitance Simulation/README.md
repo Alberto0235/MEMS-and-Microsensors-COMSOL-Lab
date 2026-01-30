@@ -15,6 +15,11 @@
 -   `CAD MEMS Capacitance simulation.mph` — COMSOL simulation file.
 -   `Images/` — Plots of electric field streamlines and potential distribution.
 
+### Visual Results
+![Electric Potential](Images/Electric Potential.png)
+![Geometry](Images/Geometry.png)
+![Table Graph](Images/Table Graph.png)
+
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run the **Stationary Study**.
