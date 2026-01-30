@@ -14,7 +14,7 @@
 -   **Structure:** Decoupled frame design.
     -   **Drive mode:** In-plane resonance of the outer frame (similar to the Yaw device).
     -   **Sense mode:** Torsional out-of-plane (tilting) motion of the inner masses, acting as torsional accelerometers for the Coriolis force.
--   **Analysis:** Optimization of the torsional springs ($k = 2G w^3 h / 3l$) to hit the 22 kHz target while maintaining the correct mode order.
+-   **Analysis:** Optimization of the torsional springs to match the 22 kHz target while maintaining the correct mode order.
 
 ## 📂 Included Files
 -   `CAD MEMS pitchroll Gyroscope.mph` — COMSOL simulation file.
