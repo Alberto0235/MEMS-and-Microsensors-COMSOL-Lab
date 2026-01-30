@@ -2,7 +2,8 @@
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
 **Date of work:** October 2025  
-**Author:** Alberto Marrone
+**Author:** Alberto Marrone  
+**Reference:** Course Instructor Design
 
 ## 📌 Short Summary
 -   **Objective:** Completing a 3-axis IMU module by designing a Z-axis sensor matching the in-plane performance.
