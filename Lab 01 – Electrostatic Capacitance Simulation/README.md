@@ -9,7 +9,7 @@
 * **Objective:** Introduction to multiphysics simulation (Electrostatics) and evaluation of parasitic effects in sensing structures.
 * **Simulation:** Analysis of an **in-plane comb-finger capacitor**, focusing on the parallel plate capacitance formed by the comb tip (Cpp).
 * **Key Findings:** The simulation quantified the deviation from the ideal linear behavior (dC/dx) due to the fringing fields at the finger tips and the parasitic coupling with the substrate.
-* **Method:** Stationary analysis comparing the theoretical parallel plate formula (C = εA / d) against accurate FEM results to evaluate the impact on sensor sensitivity.
+* **Method:** Stationary analysis comparing the theoretical parallel plate formula (C = εA/d) against accurate FEM results to evaluate the impact on sensor sensitivity.
 
 ## 📂 Included Files
 -   `CAD MEMS Capacitance simulation.mph` — COMSOL simulation file.
