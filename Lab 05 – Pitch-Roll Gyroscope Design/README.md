@@ -20,6 +20,11 @@
 -   `CAD MEMS pitchroll Gyroscope.mph` — COMSOL simulation file.
 -   `Images/` — Visualization of Drive (torsional) and Sense (piston) modes.
 
+### Visual Results
+![Animation](Images/Animation.png)
+![Mode_Shape](Images/Mode_Shape.png)
+![Stress](Images/Stress.png)
+
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run the **Eigenfrequency Study**.
