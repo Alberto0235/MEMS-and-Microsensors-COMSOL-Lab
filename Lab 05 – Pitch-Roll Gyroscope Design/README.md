@@ -18,5 +18,13 @@
 -   `PitchRoll_Gyro.mph` — COMSOL simulation file.
 -   `Images/` — Visualization of Drive (torsional) and Sense (piston) modes.
 
+## How to reproduce
+1.  Open `.mph` file in COMSOL Multiphysics.
+2.  Run the **Eigenfrequency Study**.
+3.  In the results list, identify the two critical modes:
+    * **Drive Mode:** Torsional motion of the outer frame (Target ≈ 22 kHz).
+    * **Sense Mode:** Out-of-plane (piston-like) motion of the inner masses.
+4.  Calculate the difference between these two frequencies to verify the **1.1 kHz mode split** specification.
+
 ## License
 Simulation files: MIT License.
