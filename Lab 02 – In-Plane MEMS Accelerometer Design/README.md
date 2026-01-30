@@ -15,7 +15,7 @@
 -   **Optimization:** Tuning of the fold width ($w_{fold}$) to achieve the target stiffness.
 
 ## 📂 Included Files
--   `InPlane_Accel.mph` — COMSOL simulation file.
+-   `CAD MEMS in-plane Accelerometer.mph` — COMSOL simulation file.
 -   `Images/` — Mode shapes and displacement under 1g load.
 
 ## How to reproduce
