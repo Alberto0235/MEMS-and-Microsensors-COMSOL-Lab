@@ -22,7 +22,7 @@
 
 ## How to reproduce
 1.  Open the `.mph` file in COMSOL Multiphysics.
-2.  Run **Study 1 (Stationary)** for stiffness verification.
+2.  Run **Study 1 (Stationary)** to verify the displacement under static acceleration.
 3.  Run **Study 2 (Eigenfrequency)** to visualize the first resonant mode.
 
 ## License
