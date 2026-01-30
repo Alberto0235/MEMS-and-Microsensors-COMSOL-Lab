@@ -7,7 +7,8 @@
 
 ## 📌 Short Summary
 -   **Design Specs:**
-    -   Drive Mode Frequency: **20 kHz**.
+    -   Drive Mode Frequency: **20 kHz** (Anti-phase mode).
+    -   In-phase Drive Frequency: **14.14 kHz**.
     -   Drive-Sense Mismatch ($\Delta f$): **1.1 kHz**.
     -   Max Area: **400 x 800 µm²**.
 -   **Simulations:**
