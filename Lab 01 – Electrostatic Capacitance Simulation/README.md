@@ -11,7 +11,7 @@
 -   **Method:** Stationary analysis comparing theoretical capacitance $C = \epsilon A / d$ against FEM derived values.
 
 ## 📂 Included Files
--   `Capacitance_Model.mph` — COMSOL simulation file.
+-   `CAD MEMS Capacitance simulation.mph` — COMSOL simulation file.
 -   `Images/` — Plots of electric field streamlines and potential distribution.
 
 ## How to reproduce
