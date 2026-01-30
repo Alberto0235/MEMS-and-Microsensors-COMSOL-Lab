@@ -22,7 +22,8 @@
 
 ### Visual Results
 ![Mode Shape](Images/Mode_Shape.png)
-![Graph Description](Images/Mode_Shape.png)
+![Graph Description](Images/Stress.png)
+![Graph Description](Images/Volume.png)
 
 ## How to reproduce
 1.  Open the `.mph` file in COMSOL Multiphysics.
