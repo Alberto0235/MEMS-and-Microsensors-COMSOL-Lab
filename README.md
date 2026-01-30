@@ -41,7 +41,7 @@ The laboratories included are:
 
 Each lab folder contains the **simulation files (.mph)** and representative images of the results.
 
-*Note: The PDF reports/instructions are not included due to copyright, but a summary of the work is provided in each folder.*
+*Note: The PDF reports/instructions are not included, but a summary of the work is provided in each folder.*
 
 ---
 
@@ -58,7 +58,7 @@ Each lab folder contains the **simulation files (.mph)** and representative imag
 ## 📜 License
 
 -   Original Designs/Simulations: **MIT License**
--   Course Reference Designs (Photodiodes): **Educational Use Only / Reference**
+-   Course Reference Designs: **Educational Use / Reference**
 
 ---
 
