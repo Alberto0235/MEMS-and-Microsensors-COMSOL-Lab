@@ -1,7 +1,7 @@
 # Lab 02 – In-Plane MEMS Accelerometer Design
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
-**Date of work:** October 2025 
+**Date of work:** October 2025  
 **Author:** Alberto Marrone
 
 ## 📌 Short Summary
