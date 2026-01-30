@@ -18,7 +18,7 @@
 ### Visual Results
 ![Electric Potential](Images/Electric_Potential.png)
 ![Geometry](Images/Geometry.png)
-![Table Graph](Images/Table Graph.png)
+![Table Graph](Images/Table_Graph.png)
 
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
