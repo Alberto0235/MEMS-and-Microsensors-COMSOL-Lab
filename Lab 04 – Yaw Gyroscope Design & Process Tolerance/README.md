@@ -1,7 +1,7 @@
 # Lab 04 – Yaw Gyroscope Design & Process Tolerance
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
-**Date of work:** October 2025  
+**Date of work:** November 2025  
 **Author:** Alberto Marrone
 
 ## 📌 Short Summary
