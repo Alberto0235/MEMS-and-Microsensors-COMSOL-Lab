@@ -19,8 +19,9 @@
 -   `Images/` — Frequency sweep plots and mode shapes.
 
 ## How to reproduce
-1.  Run the **Parametric Sweep** study.
-2.  Check the 1D Plot Group to see how $f_{drive}$ and $f_{sense}$ cross or diverge with etching tolerances.
+1.  Open `.mph` file in COMSOL Multiphysics.
+2.  Run the **Parametric Sweep** study.
+3.  Check the 1D Plot Group to see how $f_{drive}$ and $f_{sense}$ cross or diverge with etching tolerances.
 
 ## License
 Simulation files: MIT License.
