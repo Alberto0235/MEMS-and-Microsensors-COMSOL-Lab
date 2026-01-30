@@ -20,7 +20,7 @@
 -   `Images/` — Torsional mode visualization (tilting motion).
 
 ### Visual Results
-![Mode_Shape](Images/Mode_Shape.png)
+![Mode Shape](Images/Mode_Shape.png)
 
 ## How to reproduce
 1.  Open `.mph` file in COMSOL Multiphysics.
