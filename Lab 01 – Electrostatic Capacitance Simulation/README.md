@@ -1,7 +1,7 @@
 # Lab 01 – Introduction to Electrostatic Actuation
 
 **Course:** MEMS and Microsensors (Master, Polimi)  
-**Date of work:** October 2024  
+**Date of work:** September 2025
 **Author:** Alberto Marrone
 
 ## 📌 Short Summary
