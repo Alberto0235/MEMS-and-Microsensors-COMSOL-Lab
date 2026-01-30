@@ -11,6 +11,7 @@
     -   Target Sensitivity: **5 fF/g**.
     -   Resonance Frequency: **3-5 kHz**.
     -   Vertical Gap: **1.4 µm**.
+    -   Process Thickness: **30 µm**.
 -   **Structure:** Asymmetric torsional mass with parallel plate electrodes.
 -   **Analysis:** Calculation of rotational stiffness ($k_{\theta}$) and moment of inertia ($I$) to tune the frequency $\omega_0 = \sqrt{k/I}$.
 
