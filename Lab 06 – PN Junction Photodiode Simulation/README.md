@@ -18,5 +18,13 @@
 -   `PN_Photodiode.mph` — Reference simulation file.
 -   `Images/` — 2D plots of hole/electron concentration and electric potential.
 
+## How to reproduce
+1.  Open `.mph` file in COMSOL Multiphysics (requires Semiconductor Module).
+2.  Run the **Stationary Study**. The solver will sweep the reverse bias voltage (e.g., from 0V to 5V).
+3.  Go to **Results > 2D Plot Group**:
+    * Visualize **Electric Potential** to see the voltage drop across the junction.
+    * Visualize **Log(Carrier Concentration)** to observe the depletion region boundaries.
+4.  (Optional) Use a **1D Cut Line** to plot the electric field peak at the junction interface.
+
 ## License
 Educational Use.
