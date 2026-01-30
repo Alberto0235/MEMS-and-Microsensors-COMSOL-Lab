@@ -1,4 +1,4 @@
-# 🔬 MEMS-Microsensors-COMSOL – Repository Overview
+# 🔬 MEMS and Microsensors Laboratory – COMSOL Simulations
 
 **Course:** MEMS and Microsensors (Master's Degree in Electronic Engineering)  
 **University:** Politecnico di Milano  
