@@ -10,9 +10,10 @@
 -   **Design Specs:**
     -   Target Drive Frequency: **22 kHz**.
     -   Mode Split: **1.1 kHz**.
+    -   Process Thickness: **20 µm**.
 -   **Structure:** Decoupled frame design.
-    -   **Drive:** Torsional outer frame.
-    -   **Sense:** Inner masses moving out-of-plane (Coriolis acceleration).
+    -   **Drive mode:** In-plane resonance of the outer frame (similar to the Yaw device).
+    -   **Sense mode:** Torsional out-of-plane (tilting) motion of the inner masses, acting as torsional accelerometers for the Coriolis force.
 -   **Analysis:** Optimization of the torsional springs ($k = 2G w^3 h / 3l$) to hit the 22 kHz target while maintaining the correct mode order.
 
 ## 📂 Included Files
@@ -23,8 +24,8 @@
 1.  Open `.mph` file in COMSOL Multiphysics.
 2.  Run the **Eigenfrequency Study**.
 3.  In the results list, identify the two critical modes:
-    * **Drive Mode:** Torsional motion of the outer frame (Target ≈ 22 kHz).
-    * **Sense Mode:** Out-of-plane (piston-like) motion of the inner masses.
+    * **Drive Mode:** In-plane expansion/contraction of the outer frame (Target ≈ 22 kHz).
+    * **Sense Mode:** Out-of-plane tiltingof the inner masses.
 4.  Calculate the difference between these two frequencies to verify the **1.1 kHz mode split** specification.
 
 ## License
